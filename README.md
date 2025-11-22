@@ -89,6 +89,8 @@ http://127.0.0.1:8050
 ### 📝 Notas
 
 Este es un proyecto educativo en progreso. Cualquier sugerencia es bienvenida.
+He utilizado herramientas de IA (como GitHub Copilot / ChatGPT) para asistir en la generación de partes del código, la documentación y la estructura del proyecto.
+Todas las sugerencias generadas han sido revisadas, adaptadas y corregidas manualmente para asegurar que el código sea correcto, claro y mantenible.
 
 ---
 
@@ -176,6 +178,8 @@ http://127.0.0.1:8050
 ### 📝 Notes
 
 This is an educational project in progress. Any suggestions are welcome.
+I have used AI tools (such as GitHub Copilot / ChatGPT) to assist in generating parts of the code, documentation, and project structure.
+All AI‑suggested content has been reviewed, modified, and validated manually to ensure correctness, clarity, and maintainability.
 
 ---
 
